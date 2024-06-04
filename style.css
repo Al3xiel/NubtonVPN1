@@ -17,7 +17,7 @@
     height: 65px; 
     justify-content: center;
     align-items: center;
-    font-size: smaller;
+    font-size: 1em;
 }
 .menu-horizontal{
     list-style: none;
