@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NubtonVPN - Iniciar Sesión</title>
+    <link rel="stylesheet" href="../css/styless.css">
+</head>
+<body>
+    <div class="container">
+        <div class="left-section">
+            <img src="../images/NubtonLogo.png" alt="NubtonVPN Logo" class="logo">
+            <h2>Conéctese Con Seguridad, Navegue Con Libertad</h2>
+            <p>Bienvenido A NubtonVPN,</p>
+            <p>Para Explorar Todas Las Funcionalidades Que Tu Plan Ofrece, Inicia Sesión <a href="#">Aquí</a></p>
+            <p>Comienza A Experimentar Un Acceso Sin Límites Al Contenido Digital Global</p>
+        </div>
+        <div class="right-section">
+            <h2>Iniciar Sesión</h2>
+            <form id="loginForm" onsubmit="return validateForm()">
+                <input type="text" id="username" name="username" placeholder="Nombre de usuario/Correo electrónico">
+                <button type="submit" class="btn-continue"><a href = "../html/index.html">Continuar</a></button>
+                <div class="or">o</div>
+                <button type="button" class="btn-apple">Inicie Sesión Con Apple</button>
+                <button type="button" class="btn-google">Inicie Sesión Con Google</button>
+                <div class="additional-links">
+                    <a href="#">¿Olvidó Su Nombre De Usuario?</a><br>
+                    <a href="#">¿Es Un Usuario Nuevo? Cree Una Cuenta.</a>
+                </div>
+            </form>
+        </div>
+    </div>
+    <script src="../js/scripts.js"></script>
+</body>
+</html>
