@@ -4,6 +4,7 @@ function validateForm() {
     if (username === "") {
         alert("El nombre de usuario/correo electrónico debe estar completo");
         return false;
+    }else{
+        return true;
     }
-    return true;
 }
