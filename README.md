@@ -1,4 +1,3 @@
-# upc-pre-202402-si729-sw54-X_Force-report-tb1
 <h1 align="center">Universidad Peruana de Ciencias Aplicadas</h1>
 <h3 align="center">Carrera: de Ingeniería de Software</h3>
 <h3 align="center">Ciclo: 2024-02</h3>
@@ -8,15 +7,14 @@
 <h3 align="center">Startup: X Force</h3>
 <h3 align="center">Producto: DriveNow</h3>
 <h3 align="center">Integrantes:</h3>
-<p align="center">
-  * Avila Palacios Aaron Alexander<br>
-  * Casas Sanchez Gabriel Alexander<br>
-  * Duran Santander Emilia Mercedes<br>
-  * Galvan Cerron George Aldo<br>
-  * Marzal Perez Jamir Angel
-</p>
-
-<h2 align="center">Agosto del 2024</h2>
+<ul style="list-style: none; padding: 0; text-align: center">
+    <li>Avila Palacios Aaron Alexander</li>
+    <li>Casas Sanchez Gabriel Alexander</li>
+    <li>Duran Santander Emilia Mercedes</li>
+    <li>Galvan Cerron George Aldo</li>
+    <li>Marzal Perez Jamir Angel</li>
+</ul>
+<h4 align="center">Agosto del 2024</h2>
 
 ## Registro de Versiones del Informe
 
