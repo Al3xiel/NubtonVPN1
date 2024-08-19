@@ -25,6 +25,17 @@
 <br>
 <h4 align="center">Agosto del 2024</h2>
 
+## Student Outcome
+El curso contribuye al cumplimiento del Student Outcome ABET: ABET – EAC - Student Outcome 3
+Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
+
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
+
+|     Criterio Específico     | Acciones Realizadas              | Conclusiones                | 
+|-----------------------------|----------------------------------|-----------------------------|
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia.** | Avila Palacios Aaron Alexander<br>TB1<br>Casas Sanchez Gabriel Alexander<br>TB1<br>Duran Santander Emilia Mercedes<br>TB1<br>Galvan Cerron George Aldo<br>TB1<br>Marzal Perez Jamir Angel<br>TB1 | |
+## Project Report Collaboration Insights
+
 ## Registro de Versiones del Informe
 
 | Versión | Fecha     | Autor                            | Descripción de modificación |
@@ -122,13 +133,7 @@
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
-## Student Outcome
-
-## Project Report Collaboration Insights
-
-
 ## Capítulo I: Introducción <a id="cap1"></a>
-
 
 ### 1.1. Startup Profile
 #### 1.1.1. Descripción de la Startup
